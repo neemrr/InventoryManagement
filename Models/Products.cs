@@ -11,5 +11,7 @@ namespace InventoryManagement.Models
         public string Color { get; set; }
         public decimal UnitPrice { get; set; }
         public int AvailableQuantity { get; set; }
+
+        public int test { get; set; }
     }
 }
